@@ -1,7 +1,5 @@
 # Optimization
 The Optimization algorithms are implemented by F. Y. Liao using Pyhton.  
-If there are problems in the algorithms, please do let me know. I will be more than appreciated.  
-Thank you.  
 Email: robert147456@gmail.com  
 
 Ant Lion Optimizor(ALO):  
